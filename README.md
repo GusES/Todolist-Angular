@@ -18,7 +18,7 @@ Son tecnologías duras de manejar pero gratificantes cuando se empieza entender 
   1- Instalar XAMPP<br>
   2- Instalar TypeScript con <pre>npm install -g typescript</pre><br>
   3- Instalar AngularCLI con <pre>npm install -g @angular/cli</pre><br>
-  4- Dentro de la carpeta htdocs de XAMPP iniciar un nuevo proyecto todolist AngularCLI con <pre>ng new todolist</pre><br>
+  4- Dentro de la carpeta htdocs de XAMPP iniciar un nuevo proyecto AngularCLI con nombre todolist con <pre>ng new todolist</pre><br>
   5- Copia los archivos de este proyecto en la raíz de la carpeta todolist, reemplazar de ser necesario<br>
   6- Iniciar el servidor MySQL y Apache de XAMPP, importar la siguiente base de datos desde el script inferior<br>
   7- Iniciar el servidor de AngularCLI con <pre>ng serve</pre><br>
