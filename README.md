@@ -1,6 +1,6 @@
 # Sobre el desarrollo:
-Es mi primer acercamiento teorico y practico a Angular y TypeScript, este projecto esta desarollado con lo que aprendi de ambas tecnologias en el plazo de 72 horas dados para resolver el practico, por lo tanto solo abarca la fase 1 y podria estar incompletoa a diferencia de la version anterior:
-<pre>https://github.com/GusES/To-Do-List_-Ensolvers-</pre>
+Es mi primer acercamiento teorico y practico a Angular y TypeScript, este projecto esta desarollado con lo que aprendi de ambas tecnologias en el plazo de 72 horas dados para resolver el practico, por lo tanto solo abarca la fase 1 y podria estar incompletoa a diferencia de la version anterior:<br/>
+https://github.com/GusES/To-Do-List_-Ensolvers- <br/>
 Son tecnologias duras de manejar pero gratificantes cuando se empieza entender y verlas funcionando.
 
 # Requisitos:
@@ -22,8 +22,8 @@ Son tecnologias duras de manejar pero gratificantes cuando se empieza entender y
   5- Copia los archivos de este projecto en la raiz de la carpeta todolist, reemplazar de ser necesario<br>
   6- Iniciar el servidor MySQL y Apache de XAMPP, importar la siguiente base de datos desde el script inferior<br>
   7- Iniciar el servidor de AngularCLI con <font color=blue>ng serve</font><br>
-  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en
-  <pre>https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts<pre>
+  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en <br/>
+  <pre>https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts <br/>
   9-Iniciar el servidor de Angular con <pre>ng serve</pre>
 </p>
 
