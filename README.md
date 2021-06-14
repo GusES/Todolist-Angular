@@ -22,7 +22,7 @@ Son tecnologias duras de manejar pero gratificantes cuando se empieza entender y
   5- Copia los archivos de este projecto en la raiz de la carpeta todolist, reemplazar de ser necesario<br>
   6- Iniciar el servidor MySQL y Apache de XAMPP, importar la siguiente base de datos desde el script inferior<br>
   7- Iniciar el servidor de AngularCLI con <font color=blue>ng serve</font><br>
-  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en linea 11 y donde conecte desde el localhost a la carpeta PHPConexinoDB <br/>
+  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en linea 11 en donde conecte el localhost a la carpeta PHPConexinoDB, en el siguiente archivo: <br/>
   https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts <br/>
   9-Iniciar el servidor de Angular con <pre>ng serve</pre>
 </p>
