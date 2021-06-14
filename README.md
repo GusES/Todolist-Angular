@@ -1,11 +1,11 @@
-#Requisitos
+# Requisitos:
 <ul>
   <li> XAMPP 3.3.0 </li>
   <li> Angular CLI 12.0.4 </li>
   <li> TypeScript 4.3.2 </li>
 </ul>
 
-#Configuracion
+# Configuracion:
 <p>
   Instalar XAMPP<br>
   Instalar TypeScript con <font color=blue>npm install -g typescript</font><br>
@@ -18,7 +18,7 @@
   En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts <font color=blue>ng serve</font><br>
 </p>
 
-#Script SQL
+# Script SQL
 <pre>
   SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
   START TRANSACTION;
