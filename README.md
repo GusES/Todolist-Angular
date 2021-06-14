@@ -23,7 +23,7 @@ Son tecnologias duras de manejar pero gratificantes cuando se empieza entender y
   6- Iniciar el servidor MySQL y Apache de XAMPP, importar la siguiente base de datos desde el script inferior<br>
   7- Iniciar el servidor de AngularCLI con <font color=blue>ng serve</font><br>
   8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en <br/>
-  <pre>https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts <br/>
+  https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts <br/>
   9-Iniciar el servidor de Angular con <pre>ng serve</pre>
 </p>
 
