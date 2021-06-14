@@ -1,6 +1,12 @@
+# Sobre el desarrollo:
+Es mi primer acercamiento a Angular y TypeScript este projecto esta desarollado con lo que aprendi de ambas tecnologias en el plazo de 72 horas dados para resolver el practico, por lo tanto solo abarca la fase 1.
+
 # Requisitos:
 <ul>
-  <li> XAMPP 3.3.0 </li>
+  <li> XAMPP 3.3.0</li>
+  <li> MariaDB 10.4.19</li>
+  <li> PHP 8.0.6</li>
+  <li> Apache 2.4.47</li>
   <li> Angular CLI 12.0.4 </li>
   <li> TypeScript 4.3.2 </li>
 </ul>
@@ -14,7 +20,7 @@
   5- Copia los archivos de este projecto en la raiz de la carpeta todolist, reemplazar de ser necesario<br>
   6- Iniciar el servidor MySQL y Apache de XAMPP, importar la siguiente base de datos desde el script inferior<br>
   7- Iniciar el servidor de AngularCLI con <font color=blue>ng serve</font><br>
-  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en [https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts](src/app/db-conexion.service.ts)<pre>ng serve</pre><br>
+  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts <pre>ng serve</pre><br>
 </p>
 
 # Script SQL
@@ -42,3 +48,11 @@
   /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
   /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 </pre>
+
+# Que se realizo?
+Creador de tareas.<br/>
+Visualizador de tareas.<br/>
+
+# Que falto?
+Edicion del nombre de tarea.<br/>
+Edicion de estado de tarea.<br/>
