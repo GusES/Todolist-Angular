@@ -8,7 +8,7 @@ import { HttpClient } from '@angular/common/http';
 export class DbConexionService {
   constructor(private http: HttpClient) { }
 
-  URL = "http://localhost/PHPConexinoDB/";
+  URL = "http://localhost/todolist/PHPConexinoDB/";
 
   crearTarea(tarea: any) {
     return this.http.post(`${this.URL}crearTarea.php`, JSON.stringify(tarea));
