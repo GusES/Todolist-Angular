@@ -1,14 +1,16 @@
 # Sobre el desarrollo:
-Es mi primer acercamiento a Angular y TypeScript este projecto esta desarollado con lo que aprendi de ambas tecnologias en el plazo de 72 horas dados para resolver el practico, por lo tanto solo abarca la fase 1.
+Es mi primer acercamiento teorico y practico a Angular y TypeScript, este projecto esta desarollado con lo que aprendi de ambas tecnologias en el plazo de 72 horas dados para resolver el practico, por lo tanto solo abarca la fase 1 y podria estar incompletoa a diferencia de la version anterior:
+<pre>https://github.com/GusES/To-Do-List_-Ensolvers-</pre>
+Son tecnologias duras de manejar pero gratificantes cuando se empieza entender y verlas funcionando.
 
 # Requisitos:
 <ul>
+  <li> Angular CLI 12.0.4 </li>
+  <li> TypeScript 4.3.2 </li>
   <li> XAMPP 3.3.0</li>
   <li> MariaDB 10.4.19</li>
   <li> PHP 8.0.6</li>
-  <li> Apache 2.4.47</li>
-  <li> Angular CLI 12.0.4 </li>
-  <li> TypeScript 4.3.2 </li>
+  <li> Apache 2.4.47</li>  
 </ul>
 
 # Configuracion:
@@ -16,11 +18,13 @@ Es mi primer acercamiento a Angular y TypeScript este projecto esta desarollado 
   1- Instalar XAMPP<br>
   2- Instalar TypeScript con <pre>npm install -g typescript</pre><br>
   3- Instalar AngularCLI con <pre>npm install -g @angular/cli</pre><br>
-  4- Dentro de la carpeta htdocs de XAMPP iniciar un nuevo proyecto AngularCLI con <pre>ng new todolist</pre><br>
+  4- Dentro de la carpeta htdocs de XAMPP iniciar un nuevo proyecto todolist AngularCLI con <pre>ng new todolist</pre><br>
   5- Copia los archivos de este projecto en la raiz de la carpeta todolist, reemplazar de ser necesario<br>
   6- Iniciar el servidor MySQL y Apache de XAMPP, importar la siguiente base de datos desde el script inferior<br>
   7- Iniciar el servidor de AngularCLI con <font color=blue>ng serve</font><br>
-  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts <pre>ng serve</pre><br>
+  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en
+  <pre>https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts<pre>
+  9-Iniciar el servidor de Angular con <pre>ng serve</pre>
 </p>
 
 # Script SQL
