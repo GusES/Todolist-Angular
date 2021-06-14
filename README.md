@@ -14,7 +14,7 @@
   5- Copia los archivos de este projecto en la raiz de la carpeta todolist, reemplazar de ser necesario<br>
   6- Iniciar el servidor MySQL y Apache de XAMPP, importar la siguiente base de datos desde el script inferior<br>
   7- Iniciar el servidor de AngularCLI con <font color=blue>ng serve</font><br>
-  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en (src/app/db-conexion.service.ts)[https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts] <pre>ng serve</pre><br>
+  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en [src/app/db-conexion.service.ts](https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts) <pre>ng serve</pre><br>
 </p>
 
 # Script SQL
