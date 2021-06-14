@@ -7,15 +7,14 @@
 
 # Configuracion:
 <p>
-  Instalar XAMPP<br>
-  Instalar TypeScript con <font color=blue>npm install -g typescript</font><br>
-  Instalar AngularCLI con <font color=blue>npm install -g @angular/cli</font><br>
-  Dentro de la carpeta htdocs de XAMPP iniciar un nuevo proyecto
-  AngularCLI con <font color=blue>ng new todolist</font><br>
-  Copia los archivos de este projecto en la raiz de la carpeta todolist, reemplazar de ser necesario<br>
-  Iniciar el servidor MySQL y Apache de XAMPP, importar la siguiente base de datos desde el script inferior<br>
-  Iniciar el servidor de AngularCLI con <font color=blue>ng serve</font><br>
-  En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts <font color=blue>ng serve</font><br>
+  1- Instalar XAMPP<br>
+  2- Instalar TypeScript con <pre>npm install -g typescript</pre><br>
+  3- Instalar AngularCLI con <pre>npm install -g @angular/cli</pre><br>
+  4- Dentro de la carpeta htdocs de XAMPP iniciar un nuevo proyecto AngularCLI con <pre>ng new todolist</pre><br>
+  5- Copia los archivos de este projecto en la raiz de la carpeta todolist, reemplazar de ser necesario<br>
+  6- Iniciar el servidor MySQL y Apache de XAMPP, importar la siguiente base de datos desde el script inferior<br>
+  7- Iniciar el servidor de AngularCLI con <font color=blue>ng serve</font><br>
+  8- En caso de no tener conexion entre PHP y AngularCLI modificar la ruta URL en (src/app/db-conexion.service.ts)[https://github.com/GusES/Todolist-Angular/blob/master/src/app/db-conexion.service.ts] <pre>ng serve</pre><br>
 </p>
 
 # Script SQL
