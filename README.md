@@ -1,8 +1,3 @@
-# Sobre el desarrollo:
-Es mi primer acercamiento teórico y practico a Angular y TypeScript, este proyecto esta desarrollado con lo que aprendí de ambas tecnologías en el plazo de 72 horas dados para resolver el practico, por lo tanto solo abarca la fase 1 y podria estar incompleto a diferencia de la versión anterior:<br/>
-https://github.com/GusES/To-Do-List_-Ensolvers- <br/>
-Son tecnologías duras de manejar pero gratificantes cuando se empieza entender y verlas funcionando.
-
 # Requisitos:
 <ul>
   <li> Angular CLI 12.0.4 </li>
